@@ -1,3 +1,3 @@
 <?php
-    echo "Xin chào mọi người tớ là Quỳnh"
+    echo "Xin chào mọi người tớ là Quỳnhhh"
 ?>
